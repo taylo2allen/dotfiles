@@ -1,2 +1,2 @@
 # dotfiles
-I switched to gnu-stow instead of a git bare repo.
+Currently using chezmoi to manage my dotfiles.
